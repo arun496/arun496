@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<div style="margin: auto;"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
 
 **arun496/arun496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
