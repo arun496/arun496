@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hy Developers!! 👋</h1>
 
 <div style="margin: auto;"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /></div>
 
