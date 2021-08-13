@@ -3,5 +3,5 @@
 <img width="250px" height="150px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 
-### Tech
-<img src="https://img.shields.io/badge/-Java-brightgreen" /> <img src="https://img.shields.io/badge/-JavaScript-orange" /> <img src="https://img.shields.io/badge/-React-pink" /> <img src="https://img.shields.io/badge/-Redux-violet" /> <img src="https://img.shields.io/badge/-yellow-Firebase" />
+## `Tech Box`
+<img src="https://img.shields.io/badge/-Java-brightgreen" /> <img src="https://img.shields.io/badge/-JavaScript-orange" /> <img src="https://img.shields.io/badge/-React-pink" /> <img src="https://img.shields.io/badge/-Redux-violet" /> <img src="https://img.shields.io/badge/-HTML-yellow" /> <img src="https://img.shields.io/badge/-CSS-brown" /> <img src="https://img.shields.io/badge/-NodeJs-purple" /> <img src="https://img.shields.io/badge/-DataStructures%20&%20Algorithms-lightblue" />
